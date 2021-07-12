@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "lorem ipsum...",
+      "author": "Estella",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "lorem ipsum...",
+      "author": "Bella",
+      "id": 2
+    },
+    {
+      "title": "Demartis",
+      "body": "Intriguing story of Demartis...",
+      "author": "Steel",
+      "id": 3
+    },
+    {
+      "title": "Another ",
+      "body": "Another thriller",
+      "author": "Bella",
+      "id": 4
+    }
+  ]
+}
